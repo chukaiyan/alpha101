@@ -1,5 +1,5 @@
 # alpha101
-This is a platform to test alpha101. We try to find the most useful alpha in Chinese stock market.
+This is a platform to test alpha101. We try to find the most useful alphas in Chinese stock market.
 
 Reference:
 
